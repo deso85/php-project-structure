@@ -1,0 +1,18 @@
+# Ignore vendor folder
+/vendor/
+
+# Ignore storage folder
+/storage/
+
+# Ignore CSS source maps
+/public/css/*.map
+
+# Ignore node_modules folder
+/node_modules/
+
+# Ignore environment-specific configuration file
+/.env
+
+# Ignore .project file
+/.project
+.settings
